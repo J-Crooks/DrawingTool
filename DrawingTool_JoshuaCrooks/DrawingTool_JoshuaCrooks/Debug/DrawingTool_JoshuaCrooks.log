@@ -1,0 +1,8 @@
+﻿  DrawingToolUI.cpp
+c:\users\b7024511\documents\uni\oop\drawingtool_joshuacrooks\drawingtool_joshuacrooks\line.h(38): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+c:\users\b7024511\documents\uni\oop\drawingtool_joshuacrooks\drawingtool_joshuacrooks\drawingtoolui.cpp(54): warning C4018: '<': signed/unsigned mismatch
+c:\users\b7024511\documents\uni\oop\drawingtool_joshuacrooks\drawingtool_joshuacrooks\drawingtoolui.cpp(405): warning C4018: '<': signed/unsigned mismatch
+c:\users\b7024511\documents\uni\oop\drawingtool_joshuacrooks\drawingtool_joshuacrooks\drawingtoolui.cpp(444): warning C4018: '<': signed/unsigned mismatch
+c:\users\b7024511\documents\uni\oop\drawingtool_joshuacrooks\drawingtool_joshuacrooks\drawingtoolui.cpp(462): warning C4018: '<': signed/unsigned mismatch
+c:\users\b7024511\documents\uni\oop\drawingtool_joshuacrooks\drawingtool_joshuacrooks\drawingtoolui.cpp(500): warning C4018: '<': signed/unsigned mismatch
+  DrawingTool_JoshuaCrooks.vcxproj -> C:\Users\b7024511\Documents\Uni\OOP\DrawingTool_JoshuaCrooks\Debug\DrawingTool_JoshuaCrooks.exe
